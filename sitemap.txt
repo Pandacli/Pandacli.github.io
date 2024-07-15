@@ -1,7 +1,8 @@
+http://www.tompanda.top/front/index.html
 http://www.tompanda.top/music/index.html
-http://www.tompanda.top/2024/07/05/Linux/
 http://www.tompanda.top/2024/07/01/hello-world/
 http://www.tompanda.top/2024/07/05/SQL/
+http://www.tompanda.top/2024/07/05/Linux/
 http://www.tompanda.top/link/index.html
 http://www.tompanda.top/tags/index.html
 http://www.tompanda.top/archives/index.html
@@ -11,3 +12,4 @@ http://www.tompanda.top/categories/index.html
 http://www.tompanda.top/bangumis/index.html
 http://www.tompanda.top/about/index.html
 http://www.tompanda.top/
+http://www.tompanda.top/tags/%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1%E8%A1%A8/
