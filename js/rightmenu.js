@@ -18,7 +18,7 @@ rm.reloadrmSize = function () {
 };
 window.oncontextmenu = function (event) {
     if (document.body.clientWidth > 768) {
-        let pageX = event.clientX + 10;	
+        let pageX = event.clientX + 10;
         let pageY = event.clientY;
         let $rightMenuNormal = $(".rightMenuNormal");
         let $rightMenuOther = $(".rightMenuOther");
@@ -187,5 +187,4 @@ $("#rightmenu-mask").contextmenu(function () {
     removeRightMenu();
     return false;
 });
-
 

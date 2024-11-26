@@ -1,9 +1,10 @@
+http://www.tompanda.top/2024/07/25/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AD%E9%97%B4%E4%BB%B6%E9%97%AE%E9%A2%98%E8%A1%A8/
+http://www.tompanda.top/2024/07/01/hello-world/
 http://www.tompanda.top/photos/index.html
 http://www.tompanda.top/background/index.html
 http://www.tompanda.top/categories/index.html
 http://www.tompanda.top/tags/index.html
 http://www.tompanda.top/link/index.html
-http://www.tompanda.top/2024/07/25/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AD%E9%97%B4%E4%BB%B6%E9%97%AE%E9%A2%98%E8%A1%A8/
 http://www.tompanda.top/2024/07/17/java-echarts/
 http://www.tompanda.top/2024/07/05/Linux/
 http://www.tompanda.top/2024/07/22/hexo/
@@ -12,7 +13,6 @@ http://www.tompanda.top/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/index.html
 http://www.tompanda.top/2024/07/16/bug/
 http://www.tompanda.top/front/index.html
 http://www.tompanda.top/music/index.html
-http://www.tompanda.top/2024/07/01/hello-world/
 http://www.tompanda.top/2024/07/05/SQL/
 http://www.tompanda.top/archives/index.html
 http://www.tompanda.top/bangumis/index.html
