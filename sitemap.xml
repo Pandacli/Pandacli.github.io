@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.tompanda.top/photos/index.html</loc>
+    
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tompanda.top/background/index.html</loc>
+    
+    <lastmod>2024-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tompanda.top/categories/index.html</loc>
+    
+    <lastmod>2024-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tompanda.top/tags/index.html</loc>
+    
+    <lastmod>2024-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tompanda.top/link/index.html</loc>
+    
+    <lastmod>2024-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.tompanda.top/2024/07/25/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AD%E9%97%B4%E4%BB%B6%E9%97%AE%E9%A2%98%E8%A1%A8/</loc>
     
     <lastmod>2024-08-28</lastmod>
@@ -83,15 +128,6 @@
   </url>
   
   <url>
-    <loc>http://www.tompanda.top/2024/07/05/SQL/</loc>
-    
-    <lastmod>2024-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.tompanda.top/2024/07/01/hello-world/</loc>
     
     <lastmod>2024-07-14</lastmod>
@@ -101,18 +137,9 @@
   </url>
   
   <url>
-    <loc>http://www.tompanda.top/link/index.html</loc>
+    <loc>http://www.tompanda.top/2024/07/05/SQL/</loc>
     
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tompanda.top/tags/index.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
+    <lastmod>2024-07-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -120,33 +147,6 @@
   
   <url>
     <loc>http://www.tompanda.top/archives/index.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tompanda.top/photos/index.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tompanda.top/backgroud/index.html</loc>
-    
-    <lastmod>2024-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.tompanda.top/categories/index.html</loc>
     
     <lastmod>2024-07-10</lastmod>
     
@@ -175,7 +175,7 @@
 
   <url>
     <loc>http://www.tompanda.top/</loc>
-    <lastmod>2024-11-20</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,7 +183,7 @@
   
   <url>
     <loc>http://www.tompanda.top/tags/%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1%E8%A1%A8/</loc>
-    <lastmod>2024-11-20</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
