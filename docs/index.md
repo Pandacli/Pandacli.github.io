@@ -9,7 +9,7 @@ blog:
   # 移动端隐藏头部头像展示
   minScreenAvatar: false
   # 设置首页的 banner 信息
-  name: SlovinG's Blog
+  name: Tommy's Blog
   motto: 为学应尽毕生力，攀高须贵少年时
   inspiring:
     - 路漫漫其修远兮，吾将上下而求索
