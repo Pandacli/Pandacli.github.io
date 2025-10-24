@@ -17,7 +17,7 @@ export default defineConfig({
     // 继承博客主题(@sugarat/theme)
     extends: blogTheme,
     // 仓库名
-    base: '/pandacli.github.io/',
+    //base: '/pandacli.github.io/',
     lang: 'zh-cn',
     title: 'Tech-Factory',
     description: '为学应尽毕生力，攀高须贵少年时',
