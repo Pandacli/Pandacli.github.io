@@ -5,11 +5,11 @@ import { getThemeConfig } from '@sugarat/theme/node'
 // 开启RSS支持（RSS配置）
 // import type { Theme } from '@sugarat/theme'
 
-const baseUrl = 'https://sloving.top'
+const baseUrl = 'https://pandacli.cn'
 const RSS: Theme.RSSOptions = {
-   title: 'SlovinG\'s Blog',
+   title: 'Tech-Factory\'s Blog',
    baseUrl,
-   copyright: 'Copyright (c) 2019-present, SlovinG',
+   copyright: 'Copyright (c) 2019-present, Tech-Factory',
    description: '来日放榜簪花在春衫，一朝等闲驰马到江南',
 }
 
@@ -49,7 +49,7 @@ const blogTheme = getThemeConfig({
     footer: {
         // message 字段支持配置为HTML内容，配置多条可以配置为数组
         // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
-        copyright: 'MIT License | SlovinG',
+        copyright: 'MIT License | Tech-Factory',
         // icpRecord: {
         //   name: '蜀ICP备19011724号',
         //   link: 'https://beian.miit.gov.cn/'
@@ -64,7 +64,7 @@ const blogTheme = getThemeConfig({
     themeColor: 'el-blue',
 
     // 文章默认作者
-    author: 'SlovinG',
+    author: 'Tommy',
 
     // 友链
     friend: [
@@ -74,14 +74,7 @@ const blogTheme = getThemeConfig({
             avatar:
                 'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
             url: 'https://sugarat.top',
-        },
-        {
-            nickname: 'Vitepress',
-            des: 'Vite & Vue Powered Static Site Generator',
-            avatar:
-                'https://vitepress.dev/vitepress-logo-large.webp',
-            url: 'https://vitepress.dev/',
-        },
+        }
     ],
 
     // 公告
@@ -92,16 +85,11 @@ const blogTheme = getThemeConfig({
         reopen: true,
         twinkle: false,
         body: [
-            {type: 'text', content: '👇 我的微信 👇----👇 我的 QQ 👇'},
+            {type: 'text', content: '👇 我的微信 👇'},
             {
                 type: 'image',
-                src: 'https://sloving.top/img/wechat.png',
+                src: 'https://bu.dusays.com/2025/10/24/68fb83649a69f.jpg',
                 style: 'display: inline-block;width:46%;padding-right:6px'
-            },
-            {
-                type: 'image',
-                src: 'https://sloving.top/img/qq.png',
-                style: 'display: inline-block;width:46%;padding-left:6px'
             },
             {
                 type: 'text',
@@ -123,12 +111,32 @@ const blogTheme = getThemeConfig({
 
     // 评论插件
     comment: {
-        repo: 'SlovinG/sloving.github.io',
-        repoId: 'MDEwOlJlcG9zaXRvcnkyNDY1MTEyOTQ=',
+        //github仓库地址
+        repo: 'pandacli/pandacli.github.io',
+        //该仓库的真实 ID
+        repoId: 'R_kgDOQISmHQ',
+        //Discussions 中已存在的分类名
         category: 'Announcements',
-        categoryId: 'DIC_kwDODrF2vs4CgAF8',
+        //需与 category 对应（如 Announcements 分类的真实 ID，同样建议官网自动生成）
+        categoryId: 'DIC_kwDOQISmHc4CxDFn',
         inputPosition: 'top'
     }
+    //giscus 配置文件
+//     <script src="https://giscus.app/client.js"
+//         data-repo="pandacli/pandacli.github.io"
+//         data-repo-id="R_kgDOQISmHQ"
+//         data-category="General"
+//         data-category-id="DIC_kwDOQISmHc4CxDFo"
+//         data-mapping="pathname"
+//         data-strict="0"
+//         data-reactions-enabled="1"
+//         data-emit-metadata="0"
+//         data-input-position="bottom"
+//         data-theme="preferred_color_scheme"
+//         data-lang="zh-CN"
+//         crossorigin="anonymous"
+//         async>
+// </script>
 })
 
 export {blogTheme}
